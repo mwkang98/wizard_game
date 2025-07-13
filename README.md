@@ -47,6 +47,7 @@ If the required files are not present in this folder, the game may crash or fail
 ---
 
 ▶️ How to Run
+
 Install Python and Pygame
 
 1. Ensure you have Python installed (version 3.7 or higher recommended).
